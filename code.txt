@@ -1,0 +1,4 @@
+## Version1
+
+Def same(x):
+	return(x)
