@@ -1,7 +1,10 @@
-## Version 2
+## Version 3 - Commitment from Github
 
 Def same(x):
 	return(x)
 
 def multiply(x,y):
 	return x*y
+
+def addition(x,y):
+	return x+y
