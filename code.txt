@@ -1,4 +1,7 @@
-## Version1
+## Version 2
 
 Def same(x):
 	return(x)
+
+def multiply(x,y):
+	return x*y
